@@ -2,8 +2,6 @@
 
 A web-based tool to convert Bambu Lab .3mf projects to Snapmaker U1 format, preserving multi-color painting and filament assignments.
 
-**Live version:** [https://bl2u1.nbn.cat](https://bl2u1.nbn.cat)
-
 ## Features
 
 - Converts Bambu Lab/Bambu Studio .3mf files to Snapmaker U1 compatible format
@@ -45,7 +43,7 @@ pip install flask
 python app.py
 ```
 
-The application will be available at `http://localhost:8080`
+The application will be available at `http://localhost:5080`
 
 ### Project Structure
 
